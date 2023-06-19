@@ -57,3 +57,17 @@ li.first-latter {
   font-size: 16px;
   top: -34px;
 }
+.weather-temeoerature .actine {
+  cursor: default;
+  color: rgb(33, 33, 33);
+}
+.weather-temeoerature .actine:hover {
+  text-decoration: none;
+}
+.weather-temeoerature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+.weather-temeoerature .active:hover {
+  text-decoration: none;
+}
