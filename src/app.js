@@ -59,6 +59,7 @@ function displyForcast(response) {
   forecastElement.innerHTML = forecastHTML;
   console.log(forecastHTML);
 }
+
 function getForecast(coordinates) {
   console.log(coordinates);
   let key = "ba63ae99b44af6a0t8b3f9b8o5fd528b";
